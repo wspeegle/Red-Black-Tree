@@ -1,0 +1,14 @@
+p2:
+total 80
+-rw-r--r--. 1 ugrad     0 Jul 29 17:27 err.log
+-rwxr-xr-x. 1 ugrad 39595 Jul 29 17:27 main
+-rw-r--r--. 1 ugrad   552 Jul 29 17:32 main.cpp
+-rw-r--r--. 1 ugrad   293 Jul 29 17:35 Makefile
+-rw-r--r--. 1 ugrad   750 Jul 29 17:27 out.log
+-rw-r--r--. 1 ugrad  1074 Jul 29 15:57 RBnode.cpp
+-rw-r--r--. 1 ugrad   545 Jul 29 14:38 RBnode.h
+-rw-r--r--. 1 ugrad 10252 Jul 29 17:26 RBtree.cpp
+-rw-r--r--. 1 ugrad   654 Jul 29 15:01 RBtree.h
+-rw-r--r--. 1 ugrad  1015 Jul 29 17:36 README.txt
+-rw-r--r--. 1 ugrad     0 Jul 29 17:38 rec48240
+/home/ugrads/speegle/CS2670/Projects/p2:/home/work/cs2720a
